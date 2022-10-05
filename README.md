@@ -1,5 +1,5 @@
 # Mixed Messages
-This project use JavaScript (functions, arrays & objects) syntax to generate a random sayings from these artists:
+This project use JavaScript (functions, arrays, objects & loops) syntax to generate a random sayings from these artists:
 1. Chuck Norris
 2. Kanye West
 3. Jakie Chan
