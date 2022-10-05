@@ -5,3 +5,5 @@ const chuckNorrisJokes = [
     "Chuck Norris breathes air ... five times a day.",
     "In the Beginning there was nothing ... then Chuck Norris roundhouse kicked nothing and told it to get a job."
 ];
+
+console.log(chuckNorrisJokes[Math.floor(Math.random() * chuckNorrisJokes.length)]);
