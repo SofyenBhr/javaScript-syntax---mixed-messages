@@ -18,7 +18,6 @@ const artistsSayings = [
         "Don't try to be like Jackie. There is only one Jackie. Study computers instead."
     ]
 ];
-
 const mixedMessages = array => {
     for (let i = 0; i < array.length; i++) {
         if (i === 0) {
@@ -30,5 +29,4 @@ const mixedMessages = array => {
         }
     }
 };
-
 mixedMessages(artistsSayings);
